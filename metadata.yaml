@@ -1,0 +1,41 @@
+_repo: Pioneers-of-Evolution-from-Thales-to-HuxleyWith-an-Intermediate-Chapter-on-the-Causes-of-Arre__39526
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clodd, Edward
+    aliases:
+    - Clodd, Edw. (Edward)
+    - Clodd, E.
+    birthdate: 1840
+    deathdate: 1930
+    gutenberg_agent_id: '40063'
+    url: http://www.gutenberg.org/2009/agents/40063
+description: ''
+gutenberg_issued: '2012-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39526'
+  lccn: '05040734'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy -- History'
+- !lcsh 'Spencer, Herbert, 1820-1903'
+- !lcsh 'Evolution (Biology) -- History'
+- !lcc 'QH'
+- !lcsh 'Huxley, Thomas Henry, 1825-1895'
+tableOfContents: 'pt. I. Pioneers of evolution from Thales to Lucretius, B.C. 600-A.D.
+  50 -- pt. II. The arrest of inquiry, A.D. 50-A.D. 1600: 1. From the early Christian
+  period to the time of Augustine, A.D. 50-A.D. 400. 2. From Augustine to Lord Bacon,
+  A.D. 400-A.D. 1600 -- pt. 3. The renascence of science, A.D. 1600 onward -- pt.
+  IV. Modern evolution: 1. Darwin and Wallace. 2. Herbert Spencer. 3. Thomas Henry
+  Huxley.'
+title: 'Pioneers of Evolution from Thales to Huxley
+
+  With an Intermediate Chapter on the Causes of Arrest of the Movement'
+url: http://www.gutenberg.org/ebooks/39526
